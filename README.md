@@ -1,2 +1,2 @@
 # Educational-Site
-This is an educational and learning site 😉
+This is not a game site 🤞
